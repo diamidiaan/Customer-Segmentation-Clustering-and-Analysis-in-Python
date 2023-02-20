@@ -9,10 +9,10 @@ Identify the most important shopping groups based on income, age, and the mall s
 The objective is to divide the mall target into approachable groups, by creating a subset of a market based on demographics behavioral criteria to better understand the target for marketing activities.
 
 ## The Approach
-1.	Perform some quick EDA (Exploratory Data Analysis)
-2.	Use KMEANS Clustering Algorithm to create our segments
-3.	Use summary statistics on the clusters 
-4.	Visualize 
+1.	EDA (Exploratory Data Analysis)
+2.	KMEANS Clustering Algorithm to create our segments
+3.	Summary statistics on the clusters 
+4.	Visualization
 
 ## Steps to solve the problem
 Using Python (Jupyter notebook)
